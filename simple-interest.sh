@@ -4,7 +4,7 @@
    # Do not use this in production. Sample purpose only.
    # Author:  MuthuSelvit
    # Additional Authors:
-   # <your GitHub username>
+   #  MuthuSelvit
    # Input:
    # p, principal amount
    # t, time period in years
